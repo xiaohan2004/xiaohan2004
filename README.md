@@ -1,5 +1,7 @@
 ## Welcome to my github homepage! 👋
+You are my ![Visitor Count](https://profile-counter.glitch.me/xiaohan2004/count.svg) visitor! Thank you!
 
+## 
 <!-- profile logo 个人资料徽标 -->
 <div>
   <a href="https://dandansad.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
