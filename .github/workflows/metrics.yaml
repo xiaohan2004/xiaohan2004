@@ -21,9 +21,6 @@ jobs:
               with:
                   token: ${{ secrets.METRICS_TOKEN }}  # 使用 GitHub secret 中的 METRICS_TOKEN 作为认证
 
-                  # 🆕 使私有仓库参与统计
-                  repositories_visibility: all  # 设置为 "all"，以便包括私有仓库的统计
-
                   # 以下是自定义的配置选项
                   user: xiaohan2004  # 设置要统计的 GitHub 用户名
                   template: classic  # 使用 classic 模板样式
