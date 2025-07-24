@@ -1,5 +1,4 @@
 ## Welcome to my github homepage! 👋
-You are my ![Visitor Count](https://profile-counter.glitch.me/xiaohan2004/count.svg) visitor! Thank you!
 
 ## GitHub Stats 📊
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
