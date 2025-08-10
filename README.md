@@ -31,7 +31,7 @@
 ## Tech Stack & Tools 🧰
 
 ### Programming 🖥️
-[![programminglanguages](https://skillicons.dev/icons?i=java,python,c,cpp,markdown,bash,javascript,html,css,kotlin,latex)](https://skillicons.dev)
+[![programminglanguages](https://skillicons.dev/icons?i=java,go,python,c,cpp,markdown,bash,javascript,html,css,kotlin,latex)](https://skillicons.dev)
 
 [![frameworks&libraries](https://skillicons.dev/icons?i=spring,vue,flask,opencv,pytorch,qt,sklearn,selenium,tensorflow)](https://skillicons.dev)
 
