@@ -1,5 +1,7 @@
 ## Welcome to my github homepage! 👋
 
+You are my <img src="https://komarev.com/ghpvc/?username=xiaohan2004&color=blue&label=No." alt="Profile views" /> visitor! Thank you!
+
 ## GitHub Stats 📊
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <div style="flex: 0 0 60%;">
