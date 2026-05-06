@@ -12,7 +12,7 @@ You are my <img src="https://komarev.com/ghpvc/?username=xiaohan2004&color=blue&
     </div>
 </div>
 
-<img align="" height="137px" src="https://github-readme-stats.zohan.tech/api?username=xiaohan2004&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=xiaohan2004&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height="135px" src="https://github-readme-stats.zohan.tech/api?username=xiaohan2004&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="135px" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=xiaohan2004&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ## About Me 🤔
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=500&width=800&height=100&lines=%E4%B8%8D%E4%B8%BA%E6%9C%AA%E6%9D%A5%E5%BF%A7%E8%99%91%EF%BC%8C%E4%B8%8D%E4%B8%BA%E8%BF%87%E5%BE%80%E7%89%B5%E7%BB%8A%EF%BC%8C%E5%94%AF%E6%9C%89%E6%AD%A4%E5%88%BB%EF%BC%8C%E6%96%B9%E8%83%BD%E6%88%90%E5%B0%B1%E8%BF%9C%E6%96%B9;%E4%B8%8E%E6%97%B6%E4%BF%B1%E8%BF%9B%EF%BC%8C%E6%8B%A5%E6%8A%B1%E5%8F%98%E5%8C%96)](https://git.io/typing-svg)
@@ -26,8 +26,8 @@ You are my <img src="https://komarev.com/ghpvc/?username=xiaohan2004&color=blue&
   <a href="https://dandansad.com/"><img src="https://img.shields.io/badge/Website-个人网站-4BBAFF?style=for-the-badge&logo=wordpress&logoColor=white" /></a>&emsp;
   <a href="https://blog.csdn.net/2402_85491806"><img src="https://img.shields.io/badge/CSDN-博客-FF4B2B?style=for-the-badge&logo=c&logoColor=white" /></a>&emsp;
   <a href="mailto:bornwarm@foxmail.com"><img src="https://img.shields.io/badge/Email-邮箱-00CED1?style=for-the-badge&logo=gmail&logoColor=white" /></a>&emsp;
-  <!-- <a href="https://www.zhihu.com/people/xiaohan2004"><img src="https://img.shields.io/badge/知乎-知乎-056DE8?style=for-the-badge&logo=zhihu&logoColor=white" /></a>&emsp;
-  <a href="https://www.bilibili.com/video/BV13y4y1y7Q5"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" /></a>&emsp; -->
+  <!-- <a href=""><img src="https://img.shields.io/badge/知乎-知乎-056DE8?style=for-the-badge&logo=zhihu&logoColor=white" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" /></a>&emsp; -->
 </div>
 
 ## Tech Stack & Tools 🧰
