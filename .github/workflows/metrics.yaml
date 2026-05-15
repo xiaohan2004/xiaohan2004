@@ -27,7 +27,8 @@ jobs:
                   base: header, activity, community, repositories, metadata  # 指定生成的基本部分
                   base_hireable: yes  # 显示是否开放招聘的状态
                   config_octicon: yes  # 启用 Octicon 图标
-                  config_timezone: Asia/Shanghai  # 设置时区为上海时间、
+                  config_timezone: Asia/Shanghai  # 设置时区为上海时间
+                  config_display: columns
 
                   # plugin_people: yes  # 启用用户相关的插件，例如统计用户的关注者和被关注者
                   # plugin_people_limit: 24  # 设置 plugin_people 插件显示的用户限制数量为 24
