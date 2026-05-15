@@ -3,9 +3,20 @@
 You are my <img src="https://komarev.com/ghpvc/?username=xiaohan2004&color=blue&label=No." alt="Profile views" /> visitor! Thank you!
 
 ## GitHub Stats 📊
-<p align="left">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%">
-</p>
+<table>
+  <tr>
+    <!-- 左侧主统计图 -->
+    <td valign="top" width="50%">
+      <img src="./metrics-left.svg" alt="Metrics Left">
+    </td>
+    <!-- 右侧：Issue / PR + 语言统计 + 贡献日历 -->
+    <td valign="top" width="50%">
+      <img src="./metrics-right-top.svg" alt="Metrics Right Top">
+      <br>
+      <img src="./metrics-right-bottom.svg" alt="Metrics Right Bottom">
+    </td>
+  </tr>
+</table>
 
 <img align="" height="135px" src="https://github-readme-stats.zohan.tech/api?username=xiaohan2004&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="135px" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=xiaohan2004&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
@@ -24,39 +35,6 @@ You are my <img src="https://komarev.com/ghpvc/?username=xiaohan2004&color=blue&
   <!-- <a href=""><img src="https://img.shields.io/badge/知乎-知乎-056DE8?style=for-the-badge&logo=zhihu&logoColor=white" /></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" /></a>&emsp; -->
 </div>
-
-## Tech Stack & Tools 🧰
-
-### Programming 🖥️
-[![programminglanguages](https://skillicons.dev/icons?i=java,go,python,c,cpp,markdown,bash,javascript,html,css,kotlin,latex)](https://skillicons.dev)
-
-[![frameworks&libraries](https://skillicons.dev/icons?i=spring,vue,flask,opencv,pytorch,qt,sklearn,selenium,tensorflow)](https://skillicons.dev)
-
-<div>
-  <img src="https://img.shields.io/badge/MyBatis-持久层框架-FF5733?style=for-the-badge&logo=apache&logoColor=white" />&emsp;
-  <img src="https://img.shields.io/badge/NumPy-数据处理-FFC300?style=for-the-badge&logo=numpy&logoColor=white" />&emsp;
-  <img src="https://img.shields.io/badge/Pandas-数据分析-DAF7A6?style=for-the-badge&logo=pandas&logoColor=white" />&emsp;
-  <img src="https://img.shields.io/badge/Matplotlib-数据可视化-900C3F?style=for-the-badge&logo=matplotlib&logoColor=white" />&emsp;
-</div>
-
-### Dev Tools 🛠️
-
-[![IDE](https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio,powershell,vim)](https://skillicons.dev)
-[![database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-[![devtools](https://skillicons.dev/icons?i=docker,nginx,postman,anaconda,cmake,git,githubactions,gitlab,gradle,maven,npm,obsidian,vite,wordpress)](https://skillicons.dev)
-
-<div>
-  <img src="https://img.shields.io/badge/Tomcat-Web容器-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />&emsp;
-</div>
-
-## My System 🖥
-
-[![device](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
-
-<div>
-  <img src="https://img.shields.io/badge/CentOS-Linux系统-262577?style=for-the-badge&logo=centos&logoColor=white" />&emsp;
-</div>
-
 
 ## Recent Activity ⚡
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaohan2004&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
