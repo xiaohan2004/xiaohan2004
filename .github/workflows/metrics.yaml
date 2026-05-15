@@ -45,6 +45,9 @@ jobs:
                   # plugin_calendar: yes  # 启用日历插件，用于显示贡献的日期
                   # plugin_calendar_limit: 2  # 设置显示的日历插件数量限制为 2
 
+                 # 插件：Issue / PR 跟进统计
+                  plugin_followup: yes
+                
                   # 插件：年度和月度统计的日历
                   plugin_isocalendar: yes  # 启用 ISO 日历插件
                   plugin_isocalendar_duration: half-year  # 设置 ISO 日历显示为半年
