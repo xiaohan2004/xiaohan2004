@@ -3,14 +3,9 @@
 You are my <img src="https://komarev.com/ghpvc/?username=xiaohan2004&color=blue&label=No." alt="Profile views" /> visitor! Thank you!
 
 ## GitHub Stats 📊
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <div style="flex: 0 0 60%;">
-        <picture>
-            <source media="(max-width: 767px)" srcset="./github-metrics.svg" width="100%">
-            <img src="./github-metrics.svg" alt="Metrics" align="top">
-        </picture>
-    </div>
-</div>
+<p align="left">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
+</p>
 
 <img align="" height="135px" src="https://github-readme-stats.zohan.tech/api?username=xiaohan2004&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="135px" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=xiaohan2004&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
